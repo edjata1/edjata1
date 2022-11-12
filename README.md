@@ -1,3 +1,6 @@
+
+
+
 <h1>Empress Full Stack Development journey</h1>
 
 [![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://edjata.com)
@@ -18,7 +21,7 @@
 
 - 📄 Know about my experiences ![Repo](https://github.com/edjata1?tab=repositories)
 
-<h3 align="left">Videos:</h3>
+&ensp;<a href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 
 [![Full Stack](http://img.youtube.com/vi/fkox8by1c6k/0.jpg)](https://www.youtube.com/watch?v=fkox8by1c6k)
 
@@ -30,7 +33,15 @@
 
 [![my life](http://img.youtube.com/vi/4WsFvXPPi8Y/0.jpg)](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
 
-[Life](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
+[My Life](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
+
+[![Comedy](http://img.youtube.com/vi/s47myteE8RQ/0.jpg)](https://www.youtube.com/watch?v=s47myteE8RQ)
+
+[Comedy](https://www.youtube.com/watch?v=s47myteE8RQ)
+
+[![Ad](http://img.youtube.com/vi/O8Vl7a492OM/0.jpg)](https://www.youtube.com/watch?v=O8Vl7a492OM)
+
+[Ad](https://www.youtube.com/watch?v=O8Vl7a492OM)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
