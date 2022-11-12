@@ -1,3 +1,4 @@
+<h1>Empress Full Stack Development journey</h1>
 
 [![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://edjata.com)
 <h1 align="center">Hi 👋, I'm Empress</h1>
@@ -16,6 +17,20 @@
 - 📫 How to reach me **edjata1973@gmail.com**
 
 - 📄 Know about my experiences ![Repo](https://github.com/edjata1?tab=repositories)
+
+<h3 align="left">Videos:</h3>
+
+[![Full Stack](http://img.youtube.com/vi/fkox8by1c6k/0.jpg)](https://www.youtube.com/watch?v=fkox8by1c6k)
+
+[Full Stack Development Study Guide cheat sheet](https://www.youtube.com/watch?v=fkox8by1c6k&t=0s)
+
+[![Full Stack](http://img.youtube.com/vi/MwoIEGSuh-o/0.jpg)](https://www.youtube.com/watch?v=MwoIEGSuh-o)
+
+[Heels](https://www.youtube.com/watch?v=MwoIEGSuh-o)
+
+[![my life](http://img.youtube.com/vi/4WsFvXPPi8Y/0.jpg)](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
+
+[Life](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
