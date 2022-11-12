@@ -21,6 +21,8 @@
 </kbd>
     
 <h1 align="center">A passionate Full Stack Developer from USA</h1>
+  
+  [![edjata1's GitHub stats](https://github-readme-stats.vercel.app/api?username=edjata1)](https://github.com/edjata1/github-readme-stats)
 
 <img align="right" alt="Coding" src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg">
 
