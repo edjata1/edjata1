@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **edjata1973@gmail.com**
 
-- 📄 Know about my experiences ![resume](https://github.com/edjata1/resume/blob/main/Resume%20EMPRESS%20DJATA%20101022%20v2.pdf)
+- 📄 Know about my experiences ![Repo](https://github.com/edjata1?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
