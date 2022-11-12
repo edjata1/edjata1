@@ -1,11 +1,28 @@
-<h1>Empress Full Stack Development journey</h1>
-
+<h1>Full Stack Development Journey</h1>
 
 [![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://edjata.com)
-<h1 align="center">Hi 👋, I'm Empress</h1>
-<h3 align="center">A passionate Full Stack Developer from USA</h3>
 
-<img align="right" alt="Coding" width="400" src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg">
+<kbd border-radius="50px">
+  &ensp;<img align="right" alt="Coding" width="400" border-radius="50px" src="profilepix2.jpg" style="border: 3px solid red">
+  <div>
+    <h1>Hello Everyone 👋,</h1>
+    <h1>I'm Empress! 
+    Thank you for stopping by. It means a lot to me. As a new developer, it's been a challenge focusing with the overwhelming 
+    amount of information available today. I find it fun learning new coding languages and finding similarities between the different programming languages.
+    Here you will find some of my different programming projects. Please feel free to contact me edjata1973@smail.com to work on any project.
+  </h1>
+<div>
+<div>
+  <h1>
+    I'm currently enrolled at Georgia State University for Game Design and Development. Online games, cryptocurrency and online network communities are very
+    intriguing. I am always looking to learn more.
+  </h1>
+<div>
+</kbd>
+    
+<h1 align="center">A passionate Full Stack Developer from USA</h1>
+
+<img align="right" alt="Coding" src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg">
 
 ## Skills and Experience
 * ⚛ React
@@ -15,8 +32,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edjata1&label=Profile%20views&color=0e75b6&style=flat" alt="edjata1" /> </p>
 
-&ensp;<img align="right" alt="Coding" width="400" border-radius="50px" src="profilepix2.jpg">
-
 - 🔭 I’m currently working on [Anuetra](anuetra.com)
 
 - 🌱 I’m currently learning **to be a better coder and learn new languages.**
@@ -25,7 +40,7 @@
 
 - 📫 How to reach me **edjata1973@gmail.com**
 
-- 📄 Know about my experiences ![Repo](https://github.com/edjata1?tab=repositories)
+- 📄 Know about my experiences <h1> ![Repo](https://github.com/edjata1?tab=repositories) </h1>
 
 &ensp;<a href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 
@@ -83,11 +98,7 @@
 
 [Wedding](https://www.youtube.com/watch?v=e0B5q5-zRNE)
 
-
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me we can work together:</h3>
 <p align="left">
 <a href="https://dev.to/@edjata1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@edjata1" height="30" width="40" /></a>
 <a href="https://twitter.com/edjata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edjata" height="30" width="40" /></a>
