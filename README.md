@@ -1,6 +1,3 @@
-
-
-
 <h1>Empress Full Stack Development journey</h1>
 
 [![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://edjata.com)
@@ -27,21 +24,59 @@
 
 [Full Stack Development Study Guide cheat sheet](https://www.youtube.com/watch?v=fkox8by1c6k&t=0s)
 
-[![Full Stack](http://img.youtube.com/vi/MwoIEGSuh-o/0.jpg)](https://www.youtube.com/watch?v=MwoIEGSuh-o)
+[![Heels](http://img.youtube.com/vi/MwoIEGSuh-o/0.jpg)](https://www.youtube.com/watch?v=MwoIEGSuh-o)
 
-[Heels](https://www.youtube.com/watch?v=MwoIEGSuh-o)
+[Heels Music Video](https://www.youtube.com/watch?v=MwoIEGSuh-o)
+
+[![CeeLo Green](http://img.youtube.com/vi/byfyEC_PmHw/0.jpg)](https://www.youtube.com/watch?v=byfyEC_PmHw)
+
+[CeeLo Green Bash](https://www.youtube.com/watch?v=byfyEC_PmHw)
+
+[![Lance Hammonds bio](http://img.youtube.com/vi/7fqg1tyRIFs/0.jpg)](https://www.youtube.com/watch?v=7fqg1tyRIFs)
+
+[Lance Hammonds bio](https://www.youtube.com/watch?v=7fqg1tyRIFs)
+
+[![Lance Hammonds Wife](http://img.youtube.com/vi/5KopdcwshFA/0.jpg)](https://www.youtube.com/watch?v=5KopdcwshFA)
+
+[Lance Hammonds Wife](https://www.youtube.com/watch?v=5KopdcwshFA)
+
+[![Money Man Bob Quick Book](http://img.youtube.com/vi/IkjD48RiOno/0.jpg)](https://www.youtube.com/watch?v=IkjD48RiOno)
+
+[Money Man Bob Quick Book](https://www.youtube.com/watch?v=IkjD48RiOno)
+
+[![Comedy, Karaoke & Coffee](http://img.youtube.com/vi/Zb09yRsWAzg/0.jpg)](https://www.youtube.com/watch?v=Zb09yRsWAzg)
+
+[Comedy, Karaoke & Coffee](https://www.youtube.com/watch?v=Zb09yRsWAzg)
 
 [![my life](http://img.youtube.com/vi/4WsFvXPPi8Y/0.jpg)](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
 
-[My Life](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
+[My Life Music Video](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
 
 [![Comedy](http://img.youtube.com/vi/s47myteE8RQ/0.jpg)](https://www.youtube.com/watch?v=s47myteE8RQ)
 
-[Comedy](https://www.youtube.com/watch?v=s47myteE8RQ)
+[Comedy Starbucks](https://www.youtube.com/watch?v=s47myteE8RQ)
 
 [![Ad](http://img.youtube.com/vi/O8Vl7a492OM/0.jpg)](https://www.youtube.com/watch?v=O8Vl7a492OM)
 
 [Ad](https://www.youtube.com/watch?v=O8Vl7a492OM)
+
+[![Ad 2](http://img.youtube.com/vi/HwDQlrUK9Bo/0.jpg)](https://www.youtube.com/watch?v=HwDQlrUK9Bo)
+
+[Ad 2](https://www.youtube.com/watch?v=HwDQlrUK9Bo)
+
+[Tommy](https://www.youtube.com/watch?v=fZord5Doyu4)
+
+[DnD](https://www.youtube.com/watch?v=aoNg4Vs9O4A)
+
+[National Council of Negro Women](https://www.youtube.com/watch?v=99RivOt6ns8)
+
+[Parenting](https://www.youtube.com/watch?v=JH77FtA5zDA)
+
+[Wedding](https://www.youtube.com/watch?v=e0B5q5-zRNE)
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
