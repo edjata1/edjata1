@@ -22,7 +22,8 @@
     
 <h1 align="center">A passionate Full Stack Developer from USA</h1>
   
-  [![edjata1's GitHub stats](https://github-readme-stats.vercel.app/api?username=edjata1)](https://github.com/edjata1/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edjata1&show_icons=true&theme=radical)](https://github.com/edjata1/github-readme-stats)
+  ![edjata1's GitHub stats](https://github-readme-stats.vercel.app/api?username=edjata1&show_icons=true&theme=radical)
 
 <img align="right" alt="Coding" src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg">
 
@@ -116,9 +117,9 @@
 <h3 align="left">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/edjata1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/edjata1" /></a></p><br><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edjata1&show_icons=true&locale=en&layout=compact" alt="edjata1" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edjata1&show_icons=true&theme=radical" alt="edjata1" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edjata1&show_icons=true&locale=en" alt="edjata1" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edjata1&show_icons=true&theme=radical" alt="edjata1" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edjata1&" alt="edjata1" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edjata1&show_icons=true&theme=radical" alt="edjata1" /></p>
 
