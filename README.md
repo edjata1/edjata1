@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **edjata1973@gmail.com**
 
-- 📄 Know about my experiences <h1> ![Repo](https://github.com/edjata1?tab=repositories) </h1>
+- 📄 Know about my experiences <h1> ![Repo](https://github.com/edjata1?tab=repositories) ![Repo](https://github.com/edjata1?tab=repositories) ![Repo](https://github.com/edjata1?tab=repositories) ![Repo](https://github.com/edjata1?tab=repositories) ![Repo](https://github.com/edjata1?tab=repositories) ![Repo](https://github.com/edjata1?tab=repositories) ![Repo](https://github.com/edjata1?tab=repositories)</h1>
 
 &ensp;<a href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 
