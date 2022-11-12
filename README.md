@@ -4,11 +4,18 @@
 [![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://edjata.com)
 <h1 align="center">Hi 👋, I'm Empress</h1>
 <h3 align="center">A passionate Full Stack Developer from USA</h3>
+
 <img align="right" alt="Coding" width="400" src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg">
 
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+* 💻 Java, Python
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edjata1&label=Profile%20views&color=0e75b6&style=flat" alt="edjata1" /> </p>
 
+&ensp;<img align="right" alt="Coding" width="400" border-radius="50px" src="profilepix2.jpg">
 
 - 🔭 I’m currently working on [Anuetra](anuetra.com)
 
@@ -19,8 +26,6 @@
 - 📫 How to reach me **edjata1973@gmail.com**
 
 - 📄 Know about my experiences ![Repo](https://github.com/edjata1?tab=repositories)
-
-&ensp;<img align="right" alt="Coding" width="400" border-radius="50px" src="profilepix2.jpg">
 
 &ensp;<a href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 
