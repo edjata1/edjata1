@@ -52,7 +52,7 @@ Currently working on [Anuetra](https://anuetra.com/) and associated projects. Re
 
 ### Video releases
 <!-- recent_releases starts -->
-[![Full Stack](http://img.youtube.com/vi/fkox8by1c6k/0.jpg)](https://www.youtube.com/watch?v=fkox8by1c6k&t=0s)
+  <a href="https://www.youtube.com/watch?v=fkox8by1c6k&t=0s" target="_blank"><img src="http://img.youtube.com/vi/fkox8by1c6k/0.jpg" ></a>
 
 [Full Stack Development Study Guide cheat sheet](https://www.youtube.com/watch?v=fkox8by1c6k&t=0s)
 
