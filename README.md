@@ -7,15 +7,13 @@
   <div>
     <h1>Hello Everyone 👋,</h1>
     <h2>I'm Empress! 
-    Thank you for stopping by. It means a lot to me. As a new developer, it's been a challenge focusing with the overwhelming 
-    amount of information available today. I find it fun learning new coding languages and finding similarities between the different programming languages.
-    Here you will find some of my different programming projects. Please feel free to contact me edjata1973@email.com to work on any project.
+    Thank you for stopping by. As a new developer, it's been a challenge making an entry into the field. I find it fun learning new coding languages and finding similarities between them. Here you will find some of my different programming projects. Please feel free to contact me edjata1973@email.com to work on any project.
   </h2>
 <div>
 <div>
   <h2>
-    I'm currently enrolled at Georgia State University for Game Design and Development. Online games, cryptocurrency and online network communities are very
-    intriguing. I am always looking to learn more.
+    Currently, I am enrolled at Georgia State University for Game Design and Development. Online games, cryptocurrency and online network communities are very
+    intriguing to me. I am always looking to learn new things.
   </h2>
 <div>
 </table>
