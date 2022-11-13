@@ -2,23 +2,23 @@
 
 [![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://edjata.com)
 
-<kbd border-radius="50px">
-  &ensp;<img align="right" alt="Coding" width="400" border-radius="50px" src="profilepix2.jpg" style="border: 3px solid red">
+<table>
+  &ensp;<img align="right" alt="Coding" width="400" border-radius="50px" src="profilepix2-round.png" style="border: 3px solid red">
   <div>
     <h1>Hello Everyone 👋,</h1>
-    <h1>I'm Empress! 
+    <h2>I'm Empress! 
     Thank you for stopping by. It means a lot to me. As a new developer, it's been a challenge focusing with the overwhelming 
     amount of information available today. I find it fun learning new coding languages and finding similarities between the different programming languages.
-    Here you will find some of my different programming projects. Please feel free to contact me edjata1973@smail.com to work on any project.
-  </h1>
+    Here you will find some of my different programming projects. Please feel free to contact me edjata1973@email.com to work on any project.
+  </h2>
 <div>
 <div>
-  <h1>
+  <h2>
     I'm currently enrolled at Georgia State University for Game Design and Development. Online games, cryptocurrency and online network communities are very
     intriguing. I am always looking to learn more.
-  </h1>
+  </h2>
 <div>
-</kbd>
+</table>
     
 <h1 align="center">A passionate Full Stack Developer from USA</h1>
   
@@ -79,15 +79,9 @@
 
 [My Life Music Video](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
 
-[![Comedy](http://img.youtube.com/vi/s47myteE8RQ/0.jpg)](https://www.youtube.com/watch?v=s47myteE8RQ)
-
 [Comedy Starbucks](https://www.youtube.com/watch?v=s47myteE8RQ)
 
-[![Ad](http://img.youtube.com/vi/O8Vl7a492OM/0.jpg)](https://www.youtube.com/watch?v=O8Vl7a492OM)
-
 [Ad](https://www.youtube.com/watch?v=O8Vl7a492OM)
-
-[![Ad 2](http://img.youtube.com/vi/HwDQlrUK9Bo/0.jpg)](https://www.youtube.com/watch?v=HwDQlrUK9Bo)
 
 [Ad 2](https://www.youtube.com/watch?v=HwDQlrUK9Bo)
 
