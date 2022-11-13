@@ -45,53 +45,91 @@
 
 &ensp;<a href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 
-[![Full Stack](http://img.youtube.com/vi/fkox8by1c6k/0.jpg)](https://www.youtube.com/watch?v=fkox8by1c6k)
+  
+Currently working on [Anuetra](https://anuetra.com/) and associated projects. Read [my blog](https://edjata.com/) or <a href="https://edjata.com" rel="me">follow `@edjata1` on LinkedIn</a>.
+
+<table><tr><td valign="top" width="33%">
+
+### Video releases
+<!-- recent_releases starts -->
+[![Full Stack](http://img.youtube.com/vi/fkox8by1c6k/0.jpg)](https://www.youtube.com/watch?v=fkox8by1c6k&t=0s)
 
 [Full Stack Development Study Guide cheat sheet](https://www.youtube.com/watch?v=fkox8by1c6k&t=0s)
 
-[![Heels](http://img.youtube.com/vi/MwoIEGSuh-o/0.jpg)](https://www.youtube.com/watch?v=MwoIEGSuh-o)
+[![NAACP](http://img.youtube.com/vi/N9I4OFhkWKg/0.jpg)](https://www.youtube.com/watch?v=N9I4OFhkWKg&t=0s)
 
-[Heels Music Video](https://www.youtube.com/watch?v=MwoIEGSuh-o)
+[NAACP](https://www.youtube.com/watch?v=N9I4OFhkWKg&t=0s)  
+  
+[![National Council of Negro Women](http://img.youtube.com/vi/99RivOt6ns8/0.jpg)](https://www.youtube.com/watch?v=99RivOt6ns8&t=0s)
+  
+[National Council of Negro Women](https://www.youtube.com/watch?v=99RivOt6ns8&t=0s)
 
-[![CeeLo Green](http://img.youtube.com/vi/byfyEC_PmHw/0.jpg)](https://www.youtube.com/watch?v=byfyEC_PmHw)
+[![Lance Hammonds bio](http://img.youtube.com/vi/7fqg1tyRIFs/0.jpg)](https://www.youtube.com/watch?v=7fqg1tyRIFs&t=0s)
 
-[CeeLo Green Bash](https://www.youtube.com/watch?v=byfyEC_PmHw)
+[Lance Hammonds bio](https://www.youtube.com/watch?v=7fqg1tyRIFs&t=0s)
 
-[![Lance Hammonds bio](http://img.youtube.com/vi/7fqg1tyRIFs/0.jpg)](https://www.youtube.com/watch?v=7fqg1tyRIFs)
+[![Lance Hammonds Wife](http://img.youtube.com/vi/5KopdcwshFA/0.jpg)](https://www.youtube.com/watch?v=5KopdcwshFA&t=0s)
 
-[Lance Hammonds bio](https://www.youtube.com/watch?v=7fqg1tyRIFs)
+[Lance Hammonds Wife](https://www.youtube.com/watch?v=5KopdcwshFA&t=0s)  
 
-[![Lance Hammonds Wife](http://img.youtube.com/vi/5KopdcwshFA/0.jpg)](https://www.youtube.com/watch?v=5KopdcwshFA)
+[![Parenting](http://img.youtube.com/vi/JH77FtA5zDA/0.jpg)](https://www.youtube.com/watch?v=JH77FtA5zDA&t=0s)
+  
+[Parenting](https://www.youtube.com/watch?v=JH77FtA5zDA)
+<!-- recent_releases ends -->
+</td><td valign="top" width="34%">
 
-[Lance Hammonds Wife](https://www.youtube.com/watch?v=5KopdcwshFA)
+### Music
+<!-- Videos -->
+[![Heels](http://img.youtube.com/vi/MwoIEGSuh-o/0.jpg)](https://www.youtube.com/watch?v=MwoIEGSuh-o&t=0s)
 
-[![Money Man Bob Quick Book](http://img.youtube.com/vi/IkjD48RiOno/0.jpg)](https://www.youtube.com/watch?v=IkjD48RiOno)
+[Heels Music Video](https://www.youtube.com/watch?v=MwoIEGSuh-o&t=0s)
 
-[Money Man Bob Quick Book](https://www.youtube.com/watch?v=IkjD48RiOno)
+[![CeeLo Green](http://img.youtube.com/vi/byfyEC_PmHw/0.jpg)](https://www.youtube.com/watch?v=byfyEC_PmHw&t=0s)
 
-[![Comedy, Karaoke & Coffee](http://img.youtube.com/vi/Zb09yRsWAzg/0.jpg)](https://www.youtube.com/watch?v=Zb09yRsWAzg)
+[CeeLo Green Bash](https://www.youtube.com/watch?v=byfyEC_PmHw&t=0s)
+  
+[![my life](http://img.youtube.com/vi/4WsFvXPPi8Y/0.jpg)](https://www.youtube.com/watch?v=4WsFvXPPi8Y&t=0s)
 
-[Comedy, Karaoke & Coffee](https://www.youtube.com/watch?v=Zb09yRsWAzg)
-
-[![my life](http://img.youtube.com/vi/4WsFvXPPi8Y/0.jpg)](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
-
-[My Life Music Video](https://www.youtube.com/watch?v=4WsFvXPPi8Y)
-
-[Comedy Starbucks](https://www.youtube.com/watch?v=s47myteE8RQ)
-
-[Ad](https://www.youtube.com/watch?v=O8Vl7a492OM)
-
-[Ad 2](https://www.youtube.com/watch?v=HwDQlrUK9Bo)
-
+[My Life Music Video](https://www.youtube.com/watch?v=4WsFvXPPi8Y&t=0s) 
+  
+[![Wedding](http://img.youtube.com/vi/e0B5q5-zRNE/0.jpg)](https://www.youtube.com/watch?v=e0B5q5-zRNE&t=0s)
+  
+[Wedding](https://www.youtube.com/watch?v=e0B5q5-zRNE)
+  
+[![Tommy](http://img.youtube.com/vi/fZord5Doyu4/0.jpg)](https://www.youtube.com/watch?v=fZord5Doyu4&t=0s)
+  
 [Tommy](https://www.youtube.com/watch?v=fZord5Doyu4)
+  
+[![DnD](http://img.youtube.com/vi/aoNg4Vs9O4A/0.jpg)](https://www.youtube.com/watch?v=aoNg4Vs9O4A&t=0s)
 
 [DnD](https://www.youtube.com/watch?v=aoNg4Vs9O4A)
 
-[National Council of Negro Women](https://www.youtube.com/watch?v=99RivOt6ns8)
+<!-- blog ends -->
+</td><td valign="top" width="33%">
 
-[Parenting](https://www.youtube.com/watch?v=JH77FtA5zDA)
+### Other
+<!-- tils starts -->
+[![Quick Book](http://img.youtube.com/vi/IkjD48RiOno/0.jpg)](https://www.youtube.com/watch?v=IkjD48RiOno&t=0s)
 
-[Wedding](https://www.youtube.com/watch?v=e0B5q5-zRNE)
+[Quick Book](https://www.youtube.com/watch?v=IkjD48RiOno&t=0s)
+
+[![Comedy, Karaoke & Coffee](http://img.youtube.com/vi/Zb09yRsWAzg/0.jpg)](https://www.youtube.com/watch?v=Zb09yRsWAzg&t=0s)
+
+[Comedy, Karaoke & Coffee](https://www.youtube.com/watch?v=Zb09yRsWAzg&t=0s)
+  
+[![Comedy & Coffee](http://img.youtube.com/vi/s47myteE8RQ/0.jpg)](https://www.youtube.com/watch?v=s47myteE8RQ&t=0s)
+  
+[Comedy Starbucks](https://www.youtube.com/watch?v=s47myteE8RQ)
+  
+[![Ad](http://img.youtube.com/vi/O8Vl7a492OM/0.jpg)](https://www.youtube.com/watch?v=O8Vl7a492OM&t=0s)
+
+[Ad](https://www.youtube.com/watch?v=O8Vl7a492OM)
+  
+[![Ad 2](http://img.youtube.com/vi/HwDQlrUK9Bo/0.jpg)](https://www.youtube.com/watch?v=HwDQlrUK9Bo&t=0s)
+
+[Ad 2](https://www.youtube.com/watch?v=HwDQlrUK9Bo)
+<!-- tils ends -->
+</td></tr></table>
 
 <h3 align="left">Connect with me we can work together:</h3>
 <p align="left">
