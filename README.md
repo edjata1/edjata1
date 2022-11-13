@@ -23,7 +23,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edjata1&show_icons=true&theme=radical)](https://github.com/edjata1/github-readme-stats)
   ![edjata1's GitHub stats](https://github-readme-stats.vercel.app/api?username=edjata1&show_icons=true&theme=radical)
 
-<img align="right" alt="Coding" src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg">
+<img align="right" height="200px" alt="Coding" src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg">
 
 ## Skills and Experience
 * ⚛ React
