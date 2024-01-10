@@ -56,8 +56,8 @@
 - [YouTube Channel](https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA)</h4>
   
 Currently working on [Anuetra](https://anuetra.com/) and associated projects. Read [my blog](https://edjata.com/) or 
-[LinkedIn](href="https://edjata.com")
-<a href="https://edjata.com" rel="me">follow `@edjata1` LinkedIn </a>.
+[LinkedIn](https://edjata.com)
+<a href="https://edjata.com" rel="me">follow `@edjata` [LinkedIn](https://www.linkedin.com/in/edjata/) </a>.
 
 <table><tr><td valign="top" width="33%">
 
