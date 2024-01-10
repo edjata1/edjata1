@@ -1,6 +1,6 @@
 <h1>Full Stack Developer</h1>
 
-[![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://edjata.com)
+[edjata.com](https://edjata.com)
 
 <table>
   &ensp;<img align="right" alt="Coding" width="300" src="profilepix2-round.png" style="border: 3px solid red">
