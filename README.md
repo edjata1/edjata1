@@ -53,7 +53,7 @@
 - [Python challenges](https://github.com/edjata1/Python_challenges)
 - [Aurora Apex Game](https://github.com/edjata1/AuroraApex)</h4>
 
-&ensp;<a href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
+
 
 [YouTube Channel](href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA)
   
