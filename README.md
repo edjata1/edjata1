@@ -53,14 +53,7 @@
 - [Python challenges](https://github.com/edjata1/Python_challenges)
 - [Aurora Apex Game](https://github.com/edjata1/AuroraApex)
 - [Microsoft Front-End Clone](https://github.com/edjata1/microsoft)
-
-- 
-- [YouTube Channel](href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA)
-- </h4>
-
-
-
-[YouTube Channel](href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA)
+- [YouTube Channel](href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA)</h4>
   
 Currently working on [Anuetra](https://anuetra.com/) and associated projects. Read [my blog](https://edjata.com/) or 
 [LinkedIn](href="https://edjata.com")
