@@ -5,7 +5,7 @@
 <table>
   &ensp;<img align="right" alt="Coding" width="300" src="profilepix2-round.png" style="border: 3px solid red">
   <div>
-    <h1>Hello Everyone 👋,  I'm Empress</h1>
+    <h1>Hello Everyone 👋 I'm Empress,</h1>
     <h2> Thank you for stopping by.
     Information engrosses the world, daily. Quickly becoming the leading valuable commodity. Capitalizing on how to structure, design, implement, protect and utilize information is critical to the future success of all businesses. As a developer, excitement consumes me over exploring new possibilities, projects, concepts, as well as working with industry veterans. The exhilaration that washes over me when finding a solution to a problem is glorious. Especiially, when you've been structure for hours. Get up and work around to clear the mind and put fresh eyes on it. Understanding the scope of a project, the parameters and team requirements is important. Additionally, understanding how data will be accessed, stored, inserted and deleted within the application is one of the primary objectives. Utilizing a suitable algorithm(s) and data structure(s) to meet the project goals is paramount to a projects success. I'm looking to expand my knowledge base and utilize my skills. 
   </h2>
