@@ -43,7 +43,8 @@
 - 📄 Know about my experiences: <h4>
 - [Repo](https://github.com/edjata1?tab=repositories)
 - [JavaScript Data Structures](https://github.com/edjata1/javascript)
-- [Leetcode](https://github.com/edjata1/Leetcode_Problems)
+- [Leetcode pt1](https://github.com/edjata1/Leetcode_Problems)
+- [Leetcode pt2](https://github.com/edjata1/leetcode)
 - [java2020](https://github.com/edjata1/java2020)
 - [solidity](https://github.com/edjata1/solidity)
 - [clone sites](https://github.com/edjata1/clone_sites)
