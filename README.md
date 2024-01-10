@@ -56,6 +56,7 @@
 - [Aurora Apex Game](https://github.com/edjata1/AuroraApex)
 - [Microsoft Front-End Clone](https://github.com/edjata1/microsoft)
 - [Ecommerce Front-End Clone](https://github.com/edjata1/ecommerce_clone_website)
+- [Music Player Front-End Clone](https://github.com/edjata1/musicplayer_clone_website)
 - [YouTube Channel](https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA)</h4>
   
 Currently working on [Anuetra](https://anuetra.com/) and associated projects. Portfolio 
