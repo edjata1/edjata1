@@ -18,7 +18,7 @@
 <div>
 </table>
     
-<h1 align="center">A passionate Full Stack Developer from USA</h1>
+<h1 align="center">Full Stack Developer from USA</h1>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edjata1&show_icons=true&theme=radical)](https://github.com/edjata1/github-readme-stats)
   ![edjata1's GitHub stats](https://github-readme-stats.vercel.app/api?username=edjata1&show_icons=true&theme=radical)
@@ -41,7 +41,7 @@
 
 - 📫 How to reach me **edjata1973@gmail.com**
 
-- 📄 Know about my experiences <h4> ![Repo](https://github.com/edjata1?tab=repositories) ![Leetcode](https://github.com/edjata1/Leetcode_Problems) ![java2020](https://github.com/edjata1/java2020) ![solidity](https://github.com/edjata1/solidity) ![clone sites](https://github.com/edjata1/clone_sites) ![Python](https://github.com/edjata1/Python_Advanced) ![cheatsheets](https://github.com/edjata1/learning_cheatsheets) ![java collections](https://github.com/edjata1/java_collections) ![java loops](https://github.com/edjata1/java_loops) ![Python challenges](https://github.com/edjata1/Python_challenges) ![Aurora Apex Game](https://github.com/edjata1/AuroraApex)</h4>
+- 📄 Know about my experiences <h4> [Repo](https://github.com/edjata1?tab=repositories) ![Leetcode](https://github.com/edjata1/Leetcode_Problems) ![java2020](https://github.com/edjata1/java2020) ![solidity](https://github.com/edjata1/solidity) ![clone sites](https://github.com/edjata1/clone_sites) ![Python](https://github.com/edjata1/Python_Advanced) ![cheatsheets](https://github.com/edjata1/learning_cheatsheets) ![java collections](https://github.com/edjata1/java_collections) ![java loops](https://github.com/edjata1/java_loops) ![Python challenges](https://github.com/edjata1/Python_challenges) ![Aurora Apex Game](https://github.com/edjata1/AuroraApex)</h4>
 
 &ensp;<a href="https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 
