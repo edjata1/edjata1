@@ -55,9 +55,9 @@
 - [Microsoft Front-End Clone](https://github.com/edjata1/microsoft)
 - [YouTube Channel](https://www.youtube.com/channel/UCnf7FsfBvhvhlQlSEpEX6gA)</h4>
   
-Currently working on [Anuetra](https://anuetra.com/) and associated projects. Read [my blog](https://edjata.com/) or 
-[LinkedIn](https://edjata.com)
-<a href="https://edjata.com" rel="me">follow `@edjata` [LinkedIn](https://www.linkedin.com/in/edjata/) </a>.
+Currently working on [Anuetra](https://anuetra.com/) and associated projects. Portfolio 
+[edjata.com](https://edjata.com)
+follow me on [LinkedIn](https://www.linkedin.com/in/edjata/) </a>.
 
 <table><tr><td valign="top" width="33%">
 
