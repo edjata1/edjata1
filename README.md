@@ -41,6 +41,7 @@
 - 📫 How to reach me **edjata1973@gmail.com**
 
 - 📄 Know about my experiences: <h4>
+- [JAVA 2024](https://github.com/edjata1/Java2024)
 - [Repo](https://github.com/edjata1?tab=repositories)
 - [JavaScript Data Structures](https://github.com/edjata1/javascript)
 - [Leetcode pt1](https://github.com/edjata1/Leetcode_Problems)
